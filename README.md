@@ -1,9 +1,11 @@
 # Hello there, I’m @GabrielaGodek 🖐🏻
 
 ### Beginner front-end developer 
-I study physics at the Cracow University of Technology, however, front-end issues have always interested me.
+<div align="justify">
+&nbsp; I study physics at the Cracow University of Technology, however, front-end issues have always interested me.
 I am currently looking for an internship or a job as a junior front-end developer. I am characterized by an analytical approach to the problem, commitment, willingness to learn and openness to new experiences <br/>
-I speak English (Upper-Intermediate) and French (Beginner)
+&nbsp; I speak English (Upper-Intermediate) and French (Beginner)
+</div>
 
 ## Technologies 💻
 - <img src="images/html.png" width="50"> &nbsp;&nbsp;&nbsp; HTML5  
@@ -30,7 +32,7 @@ I speak English (Upper-Intermediate) and French (Beginner)
 ## Please do not hesitate to contact me
 <a href="https://www.linkedin.com/in/gabrielagodek/" ><img src="images/linkedin.png" width="50" ></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/G0Gabis" ><img src="images/facebook.webp" width="50" ></a> <br/>
-You can also visit my website (still working on it) ➡➡ <a href="gabriela-godek.pl"> <img src="images/www.png" width ="30"></a>
+You can also visit my website (still working on it) ➡<a href="gabriela-godek.pl"> Gabriela Godek </a>
 
 
 
