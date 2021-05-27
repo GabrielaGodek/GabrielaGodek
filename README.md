@@ -25,7 +25,7 @@ What I want to learn 📚
 
 
 ### Please do not hesitate to contact me
-
+![](images/linkedin.png)
 
 
 
