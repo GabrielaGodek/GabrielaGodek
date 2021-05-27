@@ -30,7 +30,7 @@ I speak English (Upper-Intermediate) and French (Beginner)
 ## Please do not hesitate to contact me
 <a href="https://www.linkedin.com/in/gabrielagodek/" ><img src="images/linkedin.png" width="50" ></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/G0Gabis" ><img src="images/facebook.webp" width="50" ></a> <br/>
-You can also visit my website (still working on it) ➡➡ <a href="gabriela-godek.pl"> <img src="images/wwww.jpeg" width ="30"></a>
+You can also visit my website (still working on it) ➡➡ <a href="gabriela-godek.pl"> <img src="images/www.jpeg" width ="30"></a>
 
 
 
