@@ -26,7 +26,7 @@ What I want to learn 📚
 
 ### Please do not hesitate to contact me
 <a href="https://www.linkedin.com/in/gabrielagodek/" ><img src="images/linkedin.png" width="30" ></a>
-<a href="https://www.facebook.com/G0Gabis" ><img src="images/facebook.png" width="30" ></a>
+<a href="https://www.facebook.com/G0Gabis" ><img src="images/facebook.webp" width="30" ></a>
 
 
 
