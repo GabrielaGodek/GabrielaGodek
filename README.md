@@ -17,38 +17,38 @@ In my free time I like to learn new things and develop myself. Code analysis tur
 
 </div>
 
-<div><table align = "center">
-<tr>
+<div align="center "><table align = "center">
+<tr align = "center">
 <th>Technologies I work with</th>
 <th>Currently learning</th>
 <th>I would like to learn</th>
 </tr>
-<tr>
+<tr align = "center">
 <td><img src="images/html.png" width="50px"> </br> HTML</td>
 <td><img src="images/react.png" width="70px"> </br> React </td>
 <td><img src="images/vue.png" width="50px"> </br> Vue.js</td>
 </tr>
-<tr>
+<tr align = "center">
 <td><img src="images/css.png" width="50px"> </br> CSS3</td>
 <td><img src="images/jquery.png" width="50px"> </br> jQuery </td>
 <td><img src="images/angular.png" width="70px"> </br> AngularJs</td>
 </tr>
-<tr>
+<tr align = "center">
 <td><img src="images/js.png" width="50px"> </br> JavaScript</td>
 <td><img src="images/ajax.png" width="70px"> </br> AJAX </td>
  <td><img src="images/java.png" width="70px"> </br> JAVA</td>
 </tr>
- <tr>
+<tr align = "center">
 <td><img src="images/python.png" width="50px"> </br> Python</td>
 <td>  </br> &nbsp;</td>
 <td>  </br> &nbsp;</td>
 </tr>
-<tr>
+<tr align = "center">
 <td><img src="images/vsc.png" width="50px"> </br> Visual Studio Code</td>
 <td>  </br> &nbsp;</td>
 <td>  </br> &nbsp;</td>
 </tr>
-<tr>
+<tr align = "center">
 <td><img src="images/jira.png" width="70px"> </br> Jira</td>
 <td>  </br> &nbsp;</td>
 <td>  </br> &nbsp;</td>
