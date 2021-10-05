@@ -10,7 +10,7 @@ Recently I started a <i>CS50</i>. This is Harvard University's introduction to t
 
 </div>
 
-
+<center>
 <div style="margin: 0 auto;">
     <table style="text-align:center; ">
     <thead>
@@ -25,7 +25,7 @@ Recently I started a <i>CS50</i>. This is Harvard University's introduction to t
     </tbody>
     </table>
 </div>
-
+</center>
 
 
 &nbsp; I am currently looking for an internship or a first job as a junior front-end developer or web developer. I am characterized by an analytical approach to the problem, commitment, willingness to learn and openness to new experiences <br/><br/>
