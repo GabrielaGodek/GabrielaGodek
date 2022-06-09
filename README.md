@@ -1,6 +1,6 @@
 # Hello there, I’m @GabrielaGodek 🖐🏻
 
-## Beginner front-end developer
+## Young web developer
 ###### Keep learning. Keep growing 
 
 <div align="justify">
