@@ -1,6 +1,6 @@
 # Hello there, I’m @GabrielaGodek 🖐🏻
 
-## Young web developer
+## Young & ambitious web developer
 ###### Keep learning. Keep growing 
 
 <div align="justify">
