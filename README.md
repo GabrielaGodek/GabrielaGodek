@@ -35,5 +35,4 @@ Recently I started a <i>CS50</i>. This is Harvard University's introduction to t
 <div align="center">
 <a href="https://t.me/g0gabis" ><img src="images/telegram.png" width="50" ></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gabrielagodek/" ><img src="images/linked.png" width="50" ></a> <br/>
-You can also visit my website <a href="http://www.gabriela-godek.pl/"> My WWW Portfolio </a>
 </div>
