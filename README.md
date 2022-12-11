@@ -14,14 +14,14 @@ Recently I started a <i>CS50</i>. This is Harvard University's introduction to t
 <div style="margin: 0 auto;">
     <table style="text-align:center; ">
     <thead>
-    <tr><td>Technologies I work with</td><td>I plan to learn</td></tr>
+    <tr><td>Technologies I work with</td></tr>
     </thead>
     <tbody>
-    <tr><td>Semantic HTML</td><td>React</td></tr>
-    <tr><td>CSS3/SASS + Bootstrap</td><td>npm</td></tr>
-    <tr><td>JavaScript + jQuery</td><td>jest.js</td></tr>
-    <tr><td>AJAX </td><td></td></tr>
-    <tr><td>RWD </td><td></td></tr>
+    <tr><td>Semantic HTML</td></tr>
+    <tr><td>CSS/SASS</td></tr>
+    <tr><td>JavaScript + jQuery</td></tr>
+    <tr><td>AJAX </td></tr>
+    <tr><td>RWD </td></tr>
     </tbody>
     </table>
 </div>
