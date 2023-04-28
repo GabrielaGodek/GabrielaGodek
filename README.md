@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;Moreover I was responsible for the implementation of the new e-commerce website.
 </p>
 
-<a href="https://app.daily.dev/g0gab1s" >
+<a href="https://app.daily.dev/g0gab1s" style="display:inline-block;">
     <img src="https://github.com/GabrielaGodek/GabrielaGodek/blob/main/devcard.svg" width="200" alt="g0gab1s's Dev Card"/>
 </a>
 </div>
