@@ -6,7 +6,7 @@
 <div style="display: flex;">
 <p style="margin-right: 2em; display:inline-block; float:left">
 &nbsp;&nbsp;&nbsp;My life goal is to become an expert in my chosen field. For this purpose, I regularly update and expand my knowledge. I like getting into substantive discussions and brainstorming<br>
-&nbsp;&nbsp;&nbsp;At my current position I am mostly responsibly for creating, implement and maintaining features using JavaScript language and occasionally jQuery library. Futhermore one of my key responsibility is to code campaign Landing Page based on project prepared in Figma, Adobe XD or .psd format. <br>
+&nbsp;&nbsp;&nbsp;At my current position I am mostly responsibly for creating, implement and maintaining features using JavaScript language and occasionally jQuery library. Furthermore one of my key responsibility is to code campaign Landing Page based on project prepared in Figma, Adobe XD or .psd format. <br>
 &nbsp;&nbsp;&nbsp;Moreover I was responsible for the implementation of the new e-commerce website.
 </p>
 
