@@ -6,7 +6,7 @@
 <div align="justify">
 &nbsp; I study Technical Physics with Computer Modeling specialization at Cracow University of Technology. Meanwhile my studies I realized that programming is exciting and because of that I decide to learn front-end technologies.
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&layout=compact)](https://github.com/GabrielaGodek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&layout=compact&hide_progress=true)](https://github.com/GabrielaGodek/github-readme-stats)
 
 </div>
 <a href="https://app.daily.dev/g0gab1s">
