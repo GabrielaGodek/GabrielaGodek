@@ -8,8 +8,9 @@
 
 
 </div>
-<a href="https://app.daily.dev/g0gab1s"><img src="
-https://github.com/GabrielaGodek/GabrielaGodek/blob/main/devcard.svg" width="400" alt="g0gab1s's Dev Card"/></a>
+<a href="https://app.daily.dev/g0gab1s">
+    <img src="https://github.com/GabrielaGodek/GabrielaGodek/blob/main/devcard.svg" width="400" alt="g0gab1s's Dev Card"/>
+</a>
 
 <center>
 <div style="margin: 0 auto;">
