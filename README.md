@@ -1,16 +1,22 @@
-# Hello there, I’m <a href="https://portfolio-g0gab1s.vercel.app/">@GabrielaGodek 🖐🏻</a>
+# Hello there, I’m <a href="https:/www.ggodek.com/">GabrielaGodek 🖐🏻</a>
 
 ## Young & ambitious web developer
 ### <span style="opacity: 0.6">Keep learning. Keep growing </span> 
 <section>
 <div style="display: flex; text-align: justify" >
 <p style="margin-right: 2em; display:inline-block; float:left">
-&nbsp;&nbsp;&nbsp;My life goal is to become an expert in my chosen field. For this purpose, I regularly update and expand my knowledge. I like getting into substantive discussions and brainstorming.<br>
-&nbsp;&nbsp;&nbsp;At my current position I am mostly responsibly for creating, implement and maintaining features using JavaScript language and occasionally jQuery library. Furthermore one of my key responsibility is to code campaign Landing Page based on project prepared in Figma, Adobe XD or .psd format. <br>
-Moreover I was responsible for the implementation of the new e-commerce website and guidline my collegue. This project required the skilful management of my time and my colleague's, taking care of the correct implementation of functionality and meeting deadlines.<br>
-&nbsp;&nbsp;&nbsp;In addition, I provided advice to other teams to increase efficiency and find the best solution to improve website performance and accessibility.
-</p>
+&nbsp;&nbsp;&nbsp;My life goal is to become an expert in my chosen field. For this purpose, I regularly update and expand my knowledge. I like getting into substantive discussions and brainstorming.
 
+&nbsp;&nbsp;&nbsp;At my current position I am mostly responsible for creating, implementing and maintaining features using JavaScript language and occasionally jQuery library. Furthermore, one of my key responsibilities is coding campaign Landing Pages based on projects prepared in Figma, Adobe XD or Adobe Photoshop.
+
+Moreover, I played an instrumental role in the successful implementation of a new e-commerce website.
+
+&nbsp;&nbsp;&nbsp;Currently, I am in the middle of learning TypeScript and Node.js with a strong focus on frontend development. I'm also diving into the whole world of Mobile and Web Design, I believe that this experience will improve communication across the different teams and help focus on the main objective as grow and improvement whole teams.
+
+I'm excited to apply these skills to create more user-friendly and visually appealing web experiences.
+</p>
+</div>
+<div>
 <a href="https://app.daily.dev/g0gab1s" style="display:inline-block; float:right">
     <img src="https://github.com/GabrielaGodek/GabrielaGodek/blob/main/devcard.svg" width="200" alt="g0gab1s's Dev Card"/>
 </a>
