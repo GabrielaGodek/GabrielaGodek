@@ -1,4 +1,4 @@
-# Hello there, I’m <a href="https:/www.ggodek.com/">GabrielaGodek 🖐🏻</a>
+# Hello there, I’m <a href="www.ggodek.com">GabrielaGodek 🖐🏻</a>
 
 ## Young & ambitious web developer
 ### <span style="opacity: 0.6">Keep learning. Keep growing </span> 
