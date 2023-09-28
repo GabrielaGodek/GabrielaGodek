@@ -16,11 +16,7 @@ Moreover, I played an instrumental role in the successful implementation of a ne
 I'm excited to apply these skills to create more user-friendly and visually appealing web experiences.
 </p>
 </div>
-<!-- <div>
-<a href="https://app.daily.dev/g0gab1s" style="display:inline-block; float:right">
-    <img src="https://github.com/GabrielaGodek/GabrielaGodek/blob/main/devcard.svg" width="200" alt="g0gab1s's Dev Card"/>
-</a>
-</div> -->
+
 
 </section>
 <section>
