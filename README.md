@@ -3,20 +3,15 @@
 ## Young & ambitious web developer
 ### <span style="opacity: 0.6">Keep learning. Keep growing </span> 
 <section>
-<div style="display: flex; text-align: justify" >
-<p style="margin-right: 2em; display:inline-block; float:left">
-&nbsp;&nbsp;&nbsp;My life goal is to become an expert in my chosen field. For this purpose, I regularly update and expand my knowledge. I like getting into substantive discussions and brainstorming.
 
-&nbsp;&nbsp;&nbsp;At my current position I am mostly responsible for creating, implementing and maintaining features using JavaScript language and occasionally jQuery library. Furthermore, one of my key responsibilities is coding campaign Landing Pages based on projects prepared in Figma, Adobe XD or Adobe Photoshop.
+My professional aspiration is to attain mastery in <b>Web Development</b>, dedicated to crafting aesthetically pleasing and user-friendly solutions that enhance the overall user experience and simplify daily life. Throughout my experience as a web developer and through independent learning, I have come to appreciate the significance of conscientious planning in implementing functionality. With a well-prepared project and a clear understanding of the objectives, project execution becomes seamless, and the resulting code remains clean. My commitment lies in delivering functionalities that are effective and aligned with the specified requirements, accompanied by <b>well-organized and aesthetically pleasing code</b>.
 
-Moreover, I played an instrumental role in the successful implementation of a new e-commerce website.
+In my role as a Web Developer, my primary responsibilities revolved around creating, implementing, and maintaining features using <b>PHP</b>, <b>JinJava</b> and <b>JavaScript</b>, alongside open-source libraries such as <b>jQuery</b>. I also mastered coding campaign landing pages based on projects designed in <b>Figma</b>, <b>Adobe XD</b>, or <b>Adobe Photoshop</b>. A notable achievement includes my significant contribution to the successful implementation of a new e-commerce website. Throughout this long-term project, I took on a <b>mentoring role</b>, guiding and supporting new members of the team.
+I conducted onboarding training sessions for the newest members of the team.
 
-&nbsp;&nbsp;&nbsp;Currently, I am in the middle of learning TypeScript and Node.js with a strong focus on frontend development. I'm also diving into the whole world of Mobile and Web Design, I believe that this experience will improve communication across the different teams and help focus on the main objective as grow and improvement whole teams.
+At present, I am actively engaged in mastering <b>TypeScript</b> and <b>Node.js</b>, including <b>Express</b>, and refining my proficiency in unit testing with <b>Jest</b> and <b>Vitest</b>, with a strong dedication to frontend development. This pursuit is complemented by my exploration of <b>MongoDB</b> with <b>Mongoose</b>, further broadening my skill set. Additionally, I am delving into the realms of <b>Mobile and Web Design</b>. 
 
-I'm excited to apply these skills to create more user-friendly and visually appealing web experiences.
-</p>
-</div>
-
+I believe that this comprehensive knowledge will not only facilitate improved communication among teams but also significantly contribute to the primary objective of enhancing overall team growth and performance.
 
 </section>
 <section>
