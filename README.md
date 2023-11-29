@@ -1,8 +1,8 @@
+
 # Hello there, I’m [GabrielaGodek 🖐🏻](https://www.ggodek.com/)
 
+
 ## Young & ambitious web developer
-### <span style="opacity: 0.6">Keep learning. Keep growing </span> 
-<section>
 
 My professional aspiration is to attain mastery in <b>Web Development</b>, dedicated to crafting aesthetically pleasing and user-friendly solutions that enhance the overall user experience and simplify daily life. Throughout my experience as a web developer and through independent learning, I have come to appreciate the significance of conscientious planning in implementing functionality. With a well-prepared project and a clear understanding of the objectives, project execution becomes seamless, and the resulting code remains clean. My commitment lies in delivering functionalities that are effective and aligned with the specified requirements, accompanied by <b>well-organized and aesthetically pleasing code</b>.
 
@@ -13,8 +13,6 @@ At present, I am actively engaged in mastering <b>TypeScript</b> and <b>Node.js<
 
 I believe that this comprehensive knowledge will not only facilitate improved communication among teams but also significantly contribute to the primary objective of enhancing overall team growth and performance.
 
-</section>
-<section>
 
 ## Professionally, I use
 <div align="left">
@@ -41,7 +39,7 @@ I believe that this comprehensive knowledge will not only facilitate improved co
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
 </div>
 
-### Tools
+## Tools
 <div align="left">
 	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" style="margin-right: 2em;"/></code>
     <code><img height="35" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira" style="margin-right: 2em;"/></code>
@@ -50,13 +48,12 @@ I believe that this comprehensive knowledge will not only facilitate improved co
 </div>
 
 
-### Currently learning
+## Currently learning
 <div align="left">
 	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
-
-</section>
-
+## Most used languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
