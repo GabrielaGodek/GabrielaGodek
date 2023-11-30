@@ -4,14 +4,11 @@
 
 ## Young & ambitious web developer
 
-My professional aspiration is to attain mastery in <b>Web Development</b>, dedicated to crafting aesthetically pleasing and user-friendly solutions that enhance the overall user experience and simplify daily life. Throughout my experience as a web developer and through independent learning, I have come to appreciate the significance of conscientious planning in implementing functionality. With a well-prepared project and a clear understanding of the objectives, project execution becomes seamless, and the resulting code remains clean. My commitment lies in delivering functionalities that are effective and aligned with the specified requirements, accompanied by <b>well-organized and aesthetically pleasing code</b>.
+As a Web Developer, I focused on creating, implementing, and maintaining features using primarily JavaScript (including jQuery), as well as JinJava or even PHP. I have experience coding campaign landing pages based on designs from Figma, Adobe XD, or Adobe Photoshop. I played a key role in the successful launch of a new e-commerce website, where I took on a mentoring role, guiding and supporting team members.
 
-In my role as a Web Developer, my primary responsibilities revolved around creating, implementing, and maintaining features using <b>PHP</b>, <b>JinJava</b> and <b>JavaScript</b>, alongside open-source libraries such as <b>jQuery</b>. I also mastered coding campaign landing pages based on projects designed in <b>Figma</b>, <b>Adobe XD</b>, or <b>Adobe Photoshop</b>. A notable achievement includes my significant contribution to the successful implementation of a new e-commerce website. Throughout this long-term project, I took on a <b>mentoring role</b>, guiding and supporting new members of the team.
-I conducted onboarding training sessions for the newest members of the team.
+Currently, I am expanding my skill set by learning TypeScript and Node.js, including Express. I am also working on strengthening my proficiency in unit testing with Jest and Vitest. Additionally, I am exploring MongoDB with Mongoose to broaden my knowledge.
 
-At present, I am actively engaged in mastering <b>TypeScript</b> and <b>Node.js</b>, including <b>Express</b>, and refining my proficiency in unit testing with <b>Jest</b> and <b>Vitest</b>, with a strong dedication to frontend development. This pursuit is complemented by my exploration of <b>MongoDB</b> with <b>Mongoose</b>, further broadening my skill set. Additionally, I am delving into the realms of <b>Mobile and Web Design</b>. 
-
-I believe that this comprehensive knowledge will not only facilitate improved communication among teams but also significantly contribute to the primary objective of enhancing overall team growth and performance.
+I believe that acquiring these skills will not only enhance team communication but also contribute significantly to the overall growth and performance of the team.
 
 
 ## Professionally, I use
@@ -53,6 +50,8 @@ I believe that this comprehensive knowledge will not only facilitate improved co
 	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
+	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
 </div>
 
 ## Most used languages 
