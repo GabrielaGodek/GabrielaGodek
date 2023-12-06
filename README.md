@@ -45,7 +45,7 @@ I believe that acquiring these skills will not only enhance team communication b
 </div>
 
 
-## Currently learning
+## Currently exercising
 <div align="left">
 	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
@@ -54,5 +54,5 @@ I believe that acquiring these skills will not only enhance team communication b
 	<code><img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" title="Vite"/></code>
 </div>
 
-## Most used languages 
+## Most Used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
