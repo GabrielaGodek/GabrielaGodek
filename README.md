@@ -53,5 +53,9 @@ I believe that acquiring these skills will not only enhance team communication b
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/></code>
 </div>
 
-## Most Used Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## Stats 
+<div align="center" style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=tokyonight&hide_border=true" alt="GabrielaGodek's Streak" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Top Languages" style="height: 200px;">
+</div>
+
