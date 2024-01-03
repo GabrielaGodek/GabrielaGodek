@@ -1,11 +1,13 @@
 
-![Hello there, I'm Gabriela Godek. Young and ambitiouns Web Developer](/images/GabrielaGodek.png)
+![Hello there, I'm Gabriela Godek. Young and ambitiouns Web Developer](/images/Gabriela-Godek.png)
 
+<p align="justify">
 As a Web Developer, I focused on creating, implementing, and maintaining features using primarily JavaScript (including jQuery), as well as JinJava or even PHP. I have experience coding campaign landing pages based on designs from Figma, Adobe XD, or Adobe Photoshop. I played a key role in the successful launch of a new e-commerce website, where I took on a mentoring role, guiding and supporting team members.
 
 Currently, I am expanding my skill set by learning TypeScript and Node.js, including Express. I am also working on strengthening my proficiency in unit testing with Jest and Vitest. Additionally, I am exploring MongoDB with Mongoose to broaden my knowledge.
 
 I believe that acquiring these skills will not only enhance team communication but also contribute significantly to the overall growth and performance of the team.
+</p>
 
 
 ## Professionally, I use
@@ -51,8 +53,8 @@ I believe that acquiring these skills will not only enhance team communication b
 </div>
 
 ## Stats 
-<div align="center" style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline-block;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=tokyonight&hide_border=true" alt="GabrielaGodek's Streak" style="height: 200px; display: inline-block;">
+<div align="center" style="display: inline;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=slateorange&hide_border=true" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Streak" style="height: 200px; display: inline;">
 </div>
 
