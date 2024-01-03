@@ -1,8 +1,5 @@
 
-# Hello there, I’m [GabrielaGodek 🖐🏻](https://www.ggodek.com/)
-
-
-## Young & ambitious web developer
+![Hello there, I'm Gabriela Godek. Young and ambitiouns Web Developer](/images/GabrielaGodek.png)
 
 As a Web Developer, I focused on creating, implementing, and maintaining features using primarily JavaScript (including jQuery), as well as JinJava or even PHP. I have experience coding campaign landing pages based on designs from Figma, Adobe XD, or Adobe Photoshop. I played a key role in the successful launch of a new e-commerce website, where I took on a mentoring role, guiding and supporting team members.
 
@@ -54,8 +51,8 @@ I believe that acquiring these skills will not only enhance team communication b
 </div>
 
 ## Stats 
-<div align="center" style="display: flex;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=tokyonight&hide_border=true" alt="GabrielaGodek's Streak" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Top Languages" style="height: 200px;">
+<div align="center" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline-block;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=tokyonight&hide_border=true" alt="GabrielaGodek's Streak" style="height: 200px; display: inline-block;">
 </div>
 
