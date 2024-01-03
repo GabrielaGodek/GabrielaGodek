@@ -53,8 +53,8 @@ I believe that acquiring these skills will not only enhance team communication b
 </div>
 
 ## Stats 
-<div align="center" style="display: inline;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=slateorange&hide_border=true" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Streak" style="height: 200px; display: inline;">
-</div>
+Top Languages           |  Streak
+:-------------------------:|:-------------------------:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielaGodek&theme=slateorange&hide_border=true" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline;"> |    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Streak" style="height: 200px; display: inline;">
+
 
