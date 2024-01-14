@@ -19,13 +19,7 @@ I believe that acquiring these skills will not only enhance team communication b
 
 </div>  
 
-### But I can also use 
-<div align="left">
-	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" style="margin-right: 2em;"/></code>
-	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" style="margin-right: 2em;"/></code>
-	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress" style="margin-right: 2em;"/></code>
 
-</div>
 
 ## Outside of work I use
 <div align="left">
@@ -33,6 +27,8 @@ I believe that acquiring these skills will not only enhance team communication b
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" style="margin-right: 2em;"/></code>
+	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php" style="margin-right: 2em;"/></code>
 </div>
 
 ## Tools
