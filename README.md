@@ -8,6 +8,7 @@ Currently, I am expanding my skill set by learning TypeScript and Node.js, inclu
 
 I believe that acquiring these skills will not only enhance team communication but also contribute significantly to the overall growth and performance of the team.
 </p>
+<p>Enthusiastic about blockchain, just diving into the world of web3, and fueled by coffee ☕️. Exploring the decentralized future, coding my own path. Let's connect and delve into the fascinating realm of technology!</p>
 
 
 ## Professionally, I use
