@@ -9,11 +9,12 @@ As a Web Developer, I focused on <b>creating</b>, <b>implementing</b>, and <b>ma
 		<li>PHP.</li>
 	</ul>
 
-I have experience coding campaign landing pages based on designs from <b>Figma</b>, <b>Adobe XD</b>, or <b>Adobe Photoshop</b>. 
+I have experience coding campaign landing pages based on designs from <b>Figma</b>, <b>Adobe XD</b>, or <b>Adobe Photoshop</b>.
 
 I played a key role in the successful launch of a new e-commerce website, where I took on a <b>mentoring role</b>, <b>guiding</b> and <b>supporting team members</b>.
 
 Currently, I am expanding my skill set by learning:
+
 <ul>
 	<li>Vue.js</li>
 	<li>TypeScript</li>
@@ -28,16 +29,17 @@ I believe that acquiring these skills will not only enhance team communication b
 <h2>Let's connect and delve into the fascinating realm of technology!</h2>
 
 Education & Training (Current):
+
 <ul>
 <li><a href="https://zerotomastery.io/courses/advanced-javascript-concepts/">JavaScript: The Advanced Concepts</a> - Zero To mastery</li>
 <li><a href="CS50's Web Programming with Python and JavaScript">CS50's Web Programming with Python and JavaScript</a> - Harvard University</li>
 </ul>
 <!-- <p>I am enthusiastic about blockchain, just diving into the world of web3, and fueled by coffee ☕️. Exploring the decentralized future, coding my own path. Let's connect and delve into the fascinating realm of technology!</p> -->
 
-
 # 💻 My tech:
 
 ## Professionally, I use
+
 <div align="left">
 	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="35" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass" /></code>
@@ -79,6 +81,8 @@ Education & Training (Current):
 
 ### I also have knowledge about
 
+<div align="left">
+
 <code>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
@@ -86,7 +90,7 @@ Education & Training (Current):
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-
+</div>
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline;">
