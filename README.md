@@ -32,7 +32,7 @@ Education & Training (Current):
 
 <ul>
 <li><a href="https://zerotomastery.io/courses/advanced-javascript-concepts/">JavaScript: The Advanced Concepts</a> - Zero To mastery</li>
-<li><a href="CS50's Web Programming with Python and JavaScript">CS50's Web Programming with Python and JavaScript</a> - Harvard University</li>
+<li><a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50's Introduction to Computer Science</a> - Harvard University</li>
 </ul>
 <!-- <p>I am enthusiastic about blockchain, just diving into the world of web3, and fueled by coffee ☕️. Exploring the decentralized future, coding my own path. Let's connect and delve into the fascinating realm of technology!</p> -->
 
