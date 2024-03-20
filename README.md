@@ -10,23 +10,24 @@ As a Web Developer, I focused on <b>creating</b>, <b>implementing</b>, and <b>ma
 	</ul>
 
 I have experience coding campaign landing pages based on designs from <b>Figma</b>, <b>Adobe XD</b>, or <b>Adobe Photoshop</b>.
-
 I played a key role in the successful launch of a new e-commerce website, where I took on a <b>mentoring role</b>, <b>guiding</b> and <b>supporting team members</b>.
 
-Currently, I am expanding my skill set by learning:
+Currently, I am expanding my skill set by mastering:
 
 <ul>
-	<li>Vue.js</li>
-	<li>TypeScript</li>
-	<li>Node.js (including Express). </li>
+	<li>Vue.js,</li>
+	<li>TypeScript,</li>
+	<li>Node.js (including Express), </li>
+	<li>MySQL. </li>
 </ul>
 
-I am also working on strengthening my proficiency in unit testing with <b>Jest</b> and <b>Vitest</b>. Additionally, I am exploring <b>relational database</b> to broaden my knowledge.
+<hr>
 
-I believe that acquiring these skills will not only enhance team communication but also contribute significantly to the overall growth and performance of the team.
+I am also working on strengthening my proficiency in unit testing with <b>Jest</b> and <b>Vitest</b>, while concurrently exploring <b>relational databases</b> to broaden my knowledge. I believe that acquiring these skills will not only enhance team communication but also contribute significantly to the overall growth and performance of the team.
+
+I am enthusiastic about development, diving into the world of **data structures** and **algorithms**, fueled by coffee ☕️, and exploring the vast landscape of coding to carve my own path.
 
 </p>
-<h2>Let's connect and delve into the fascinating realm of technology!</h2>
 
 Education & Training (Current):
 
@@ -34,7 +35,6 @@ Education & Training (Current):
 <li><a href="https://zerotomastery.io/courses/advanced-javascript-concepts/">JavaScript: The Advanced Concepts</a> - Zero To mastery</li>
 <li><a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science">CS50's Introduction to Computer Science</a> - Harvard University</li>
 </ul>
-<!-- <p>I am enthusiastic about blockchain, just diving into the world of web3, and fueled by coffee ☕️. Exploring the decentralized future, coding my own path. Let's connect and delve into the fascinating realm of technology!</p> -->
 
 # 💻 My tech:
 
@@ -92,3 +92,5 @@ Education & Training (Current):
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGodek&theme=slateorange&show_icons=true&hide_border=true&layout=compact" alt="GabrielaGodek's Top Languages" style="height: 200px; display: inline;">
+
+## Let's connect and delve into the fascinating realm of technology! 🦖
